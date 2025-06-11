@@ -8,7 +8,7 @@ I'm a Software Engineer, UI designer who currently works as an IT personnel at E
 
 - 😊 Pronouns: He/him
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, FrontEnd Engineer,BackEnd Engineer or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing shervie20@gmail.com.
 
 ## My Skills 🧠
@@ -18,6 +18,8 @@ I'm a Software Engineer, UI designer who currently works as an IT personnel at E
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 <!---
 olalere-abiodun/olalere-abiodun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
